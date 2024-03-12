@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Barbi
-- 👀 I’m interested in lots of things: coding, books (avid reader), crafting and gardening.
-- 🌱 I’m currently learning coding via Code Kentucky.
+- 👋 Hi, I’m Barbara
+- 👀 I’m interested a number of areas: coding, books (avid reader), crafting and gardening.
+- 🌱 I’m currently learning coding via Code Kentucky. I am specializing in Data Analytics.
 - 👌 Ask me about anything. 
 - 💞️ I’m looking to collaborate on anything that will help me improve my skills or improve a product. 
 - 📫 How to reach me on Linkedin Linkedin  www.linkedin.com/in/badkins0043.
