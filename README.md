@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Barbara
-- 👀 I’m interested a number of areas: coding, books (avid reader), crafting and gardening.
-- 🌱 I’m currently learning coding via Code Kentucky. I am specializing in Data Analytics.
+- 👀 I’m interested a number of areas: coding, data analysis, books (avid reader), crafting and gardening.
+- 🌱 I’m have finished the Data Analytics pathway via Code Kentucky. 
 - 👌 Ask me about anything. 
 - 💞️ I’m looking to collaborate on anything that will help me improve my skills or improve a product. 
 - 📫 How to reach me on Linkedin Linkedin  www.linkedin.com/in/badkins0043.
+- 📫 I can also be reached via email at badkins0043@gmail.com.
 
 
 <!---
